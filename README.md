@@ -1,4 +1,4 @@
-#output Astrology Business Analysis Dashboard
+#Astrology Business Analysis Dashboard #
 
 1.) Sales & Earnings Analysis
 
