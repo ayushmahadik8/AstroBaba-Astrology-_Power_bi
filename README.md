@@ -17,7 +17,7 @@
 
 ![2](https://github.com/user-attachments/assets/aff581be-64b0-4d03-8f75-13dbe024f4c0)
 
-3.) Discount & Profitability Analysis.
+3.) Discount & Profitability Analysis..
 
 1. What impact do astrologer discounts have on revenue? – 
 2. Which discount percentage (5%, 10%, 30%) attracts the most customers? – 
