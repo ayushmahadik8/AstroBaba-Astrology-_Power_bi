@@ -5,7 +5,7 @@
 1. What was the total earnings for each year? Is the trend increasing or decreasing? –
 2. Which astrologer generated the highest revenue? –
 3. Which category (Tarot, Lal Kitab, Face Reading, etc.) is the most profitable? – 
-4. Which payment method is used the most? (UPI, Card, Net Banking, Wallet) – 
+4. Which payment method is used the most? (UPI, Card, Net Banking, Wallet) – :
 
 ![1](https://github.com/user-attachments/assets/908637e6-9ef0-4045-a5d5-683d3f843d10)
 
